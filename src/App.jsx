@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Header from "../src/components/Header";
 import Footer from "../src/components/Footer";
 import About from "../src/components/About";
+import Contact from "../src/components/Contact";
 import Portfolio from "../src/components/Portfolio";
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'

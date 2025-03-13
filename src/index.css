@@ -80,7 +80,6 @@ header nav ul {
   justify-content: space-between;
   align-items: center;
   list-style: none;
-
 }
 
 header nav ul li a {
@@ -94,7 +93,6 @@ header nav ul li a {
   -o-transition: all 1s ease;
   -ms-transition: all 1s ease;
   transition: all 1s ease;
-
 }
 
 header nav ul li a:hover {
@@ -115,7 +113,6 @@ header nav ul li a:hover {
   align-items: flex-start;
   background-attachment: fixed;
   background-position: 80%;
-
 }
 
 .hero-cta {
@@ -175,16 +172,15 @@ header nav ul li a:hover {
 }
 
 #reach-out {
-  /* margin-top: 5px; */
-  background: #1d068e;
+  background: #27cce2;
 }
 
 #reach-out h2 {
-  color: #0E5259;
+  color: #1a2020;
 }
 
 .contact h2 {
-  color: #F2E3D5;
+  color: #bd7737;
 }
 
 .contact-info {
@@ -199,24 +195,22 @@ header nav ul li a:hover {
 
 .contact-form button:hover {
   color: #F2E3D5;
-  background: #39a6b2;
+  background: #046669;
 }
 
 .contact-form input,
 .contact-form textarea {
-  border: 1px solid #024e76;
+  border: 1px solid #15181a;
   display: block;
   padding: 7px 15px;
-  font-size: 16px;
-  color: #024e76;
+  font-size: 20px;
+  color: #090d0f;
   width: 100%;
   margin-bottom: 15px;
   margin-top: 5px;
   border-radius: 10px;
   background-color: rgba(255, 255, 255, 0.75);
-
 }
-
 
 .contact-form input:focus,
 .contact-form textarea:focus {
@@ -228,14 +222,11 @@ header nav ul li a:hover {
   width: 100%;
   border: none;
   background: #F2E3D5;
-  color: #024e76;
+  color: #2c3535;
   text-align: center;
   padding: 15px 0;
   font-size: 25px;
   border-radius: 10px;
-
-
-
 }
 
 .contact-info>* {
@@ -243,18 +234,16 @@ header nav ul li a:hover {
   margin: 15px;
 }
 
-
 .contact-info div {
   width: 410px;
   display: inline-block;
   vertical-align: top;
   text-align: left;
   margin: 30px 0 0 60px;
-
 }
 
 .contact-info h3 {
-  color: #0E5259;
+  color: #101414;
   font-size: 32px;
 }
 
@@ -264,8 +253,6 @@ header nav ul li a:hover {
   line-height: 1.5;
   font-size: 25px;
   font-style: normal;
-
-
 }
 
 #contact-list {
@@ -276,7 +263,7 @@ header nav ul li a:hover {
 }
 
 .contact-info a {
-  color: #0E5259;
+  color: #4b9e9e;
   display: inline;
 }
 
@@ -287,7 +274,6 @@ header nav ul li a:hover {
 
 .jobs {
   background: #0E5259;
-
 }
 
 .job {
@@ -454,7 +440,7 @@ header nav ul li a:hover {
 }
 
 .column-text {
-  color: #285950;
+  color: #060e0c;
   font-size: 20px;
   padding: 5px;
 }
@@ -490,7 +476,6 @@ footer p {
 }
 
 footer div {
-
   line-height: 1.5;
 }
 
@@ -585,7 +570,6 @@ label {
     width: 80%;
   }
 
-
   .contact-info {
     flex: 1 100%;
   }
@@ -594,9 +578,7 @@ label {
     display: block;
     justify-content: space-around;
     flex-wrap: wrap;
-
   }
-
 }
 
 @media screen and (max-width: 768px) {
@@ -640,8 +622,6 @@ label {
 }
 
 @media screen and (max-width: 575px) {
-
-
   .section-title {
     width: 95%;
   }
@@ -664,8 +644,6 @@ label {
   .contact-info li {
     font-size: 25px;
     justify-content: space-between;
-
-
   }
 
   #contact-list {
@@ -675,12 +653,9 @@ label {
     flex-wrap: wrap;
     margin-bottom: 25px;
     margin-right: 120px;
-
   }
 
   .contact-info>* {
     flex: 0 100%;
   }
-
-
 }
