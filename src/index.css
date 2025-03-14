@@ -63,8 +63,6 @@ header h1 {
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
-
-
 header a {
   text-decoration: none;
   color: #0d1111;
@@ -172,7 +170,7 @@ header nav ul li a:hover {
 }
 
 #reach-out {
-  background: #27cce2;
+  background: #f9fafa;
 }
 
 #reach-out h2 {
@@ -180,7 +178,7 @@ header nav ul li a:hover {
 }
 
 .contact h2 {
-  color: #bd7737;
+  color: #85adb9;
 }
 
 .contact-info {
@@ -194,8 +192,8 @@ header nav ul li a:hover {
 }
 
 .contact-form button:hover {
-  color: #F2E3D5;
-  background: #046669;
+  color: #0b0804;
+  background: #d3e7e8;
 }
 
 .contact-form input,
@@ -221,7 +219,7 @@ header nav ul li a:hover {
 .contact-form button {
   width: 100%;
   border: none;
-  background: #F2E3D5;
+  background: #ddf7f2;
   color: #2c3535;
   text-align: center;
   padding: 15px 0;
@@ -263,7 +261,7 @@ header nav ul li a:hover {
 }
 
 .contact-info a {
-  color: #4b9e9e;
+  color: #2c9696;
   display: inline;
 }
 
@@ -273,7 +271,7 @@ header nav ul li a:hover {
 }
 
 .jobs {
-  background: #0E5259;
+  background: #494f4f;
 }
 
 .job {
@@ -284,12 +282,11 @@ header nav ul li a:hover {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #D5F2EA;
+  border-bottom: 1px solid #030807;
 }
 
-
 .job:nth-child(even) {
-  border-bottom: 1px solid #D5F2EA;
+  border-bottom: 1px solid #101211;
 }
 
 .job:last-child {
@@ -299,7 +296,7 @@ header nav ul li a:hover {
 .job-text h4 {
   font-size: 26px;
   line-height: 1.5;
-  color: #75BFB2;
+  color: #0d0e0d;
 }
 
 
@@ -320,9 +317,6 @@ header nav ul li a:hover {
   -o-transition: all 1s ease;
   -ms-transition: all 1s ease;
   transition: all 1s ease;
-
-
-
 }
 
 .job-img img {
@@ -342,7 +336,7 @@ header nav ul li a:hover {
 }
 
 .job-img img:hover {
-  border: 5px solid #ACF2E5;
+  border: 5px solid #030303;
   transform: scale(1.1);
 }
 
@@ -355,7 +349,7 @@ header nav ul li a:hover {
 }
 
 .job-text p {
-  color: #D5F2EA;
+  color: #171918;
   font-size: 18px;
 }
 
@@ -398,7 +392,7 @@ header nav ul li a:hover {
 .article {
   margin: 10px;
   margin-bottom: 1em;
-  background-color: #B4D9CB;
+  background-color: #f3f6f5;
 }
 
 .resume-body img {
@@ -434,7 +428,7 @@ header nav ul li a:hover {
 }
 
 .column-title {
-  color: #285950;
+  color: #090909;
   font-size: 25px;
   font-weight: bold;
 }
