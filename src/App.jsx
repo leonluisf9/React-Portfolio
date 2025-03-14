@@ -4,9 +4,7 @@ import Footer from "../src/components/Footer";
 import About from "../src/components/About";
 import Contact from "../src/components/Contact";
 import Portfolio from "../src/components/Portfolio";
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Resume from "../src/components/Resume";
 
 function App() {
   const [currentTab, handleTabChange] = useState("about");

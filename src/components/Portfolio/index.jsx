@@ -11,7 +11,7 @@ function Portfolio() {
     <div>
       <section id="Projects" className="jobs">
         <div className="flex-row">
-          <h2 className="section-title secondary-border">Projects</h2>
+          <h2 className="section-title secondary-border">My Portfolio</h2>
         </div>
 
         <div className="job">
