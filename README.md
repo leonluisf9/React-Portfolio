@@ -11,7 +11,7 @@
 ## Description
 A simple portfolio of work samples built with React.
 ## Installation
-Deployed application: https://tobedone.github.io/weather-dashboard/
+Deployed application: [dazzling-taiyaki-931842.netlify.app](https://dazzling-taiyaki-931842.netlify.app/)
 ## Usage
 Get the code - React-Bootstrap
 ## Contributing
